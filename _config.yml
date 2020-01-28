@@ -101,3 +101,7 @@ deploy:
   type: git
   repo: git@github.com:yoer77/yoer77.github.io.git
   branch: master
+
+# Favicon
+# ---------------
+favicon: /77.ico
