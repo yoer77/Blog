@@ -127,9 +127,9 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: https://i0.hdslb.com/bfs/album/a5ecc940f871382c14ec35f3275bf97cdd4a7e3c.jpg@1036w_1e_1c.jpg
+avatar: http://q4st6d2ug.bkt.clouddn.com/me.jpg
 
-top_img: https://i0.hdslb.com/bfs/album/ce114c6e070f9c9ea11a2ce5a76f30152776211c.jpg@4000w_1e.webp # false or url of img
+top_img: http://q4st6d2ug.bkt.clouddn.com/forest.jpg
 
 post_meta:
   date_type: created # created or updated
