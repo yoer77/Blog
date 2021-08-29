@@ -127,9 +127,9 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: http://q4st6d2ug.bkt.clouddn.com/me.jpg
+avatar: pic.yoer77.com/me.jpg
 
-top_img: http://q4st6d2ug.bkt.clouddn.com/forest.jpg
+top_img: pic.yoer77.com/forest.jpg
 
 post_meta:
   date_type: created # created or updated
